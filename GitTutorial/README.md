@@ -6,10 +6,8 @@ There are four basic command that usually used:
 
 No  |   Command     |   Description
 --  |   -------     |   -----------
-1. | `Clone` | Bring repo that is hosted to your local
-
-1.  clone   | bring repo that is hosted to your local
-2.  add     | track your files and changes git
-3.  commit  | save your files in git
-4.  push    : upload git commit to a remote repo(github)
-5.  pull    : download changes from remote repo(opposite push)
+1 | `clone` | Bring repo that is hosted to your local
+2 | `add`     | Track your files and changes git
+3 | `commit`  | Save your files in git
+4 | `push`    | Upload git commit to a remote repo(github)
+5 | `pull`    | Download changes from remote repo(opposite push)
