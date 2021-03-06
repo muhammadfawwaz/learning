@@ -18,3 +18,5 @@ No  |   Command     |   Description
 3. `reset`      reset current change. It is only reset the current commit/add to previous commit/add.
                 Using `--hard` for hard reset
 4. `merge`      merge two difference branch
+
+## yes conflict happen
