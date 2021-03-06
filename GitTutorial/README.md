@@ -11,3 +11,5 @@ No  |   Command     |   Description
 3 | `commit`  | Save your files in git
 4 | `push`    | Upload git commit to a remote repo(github)
 5 | `pull`    | Download changes from remote repo(opposite push)
+
+## yes conflict happen
